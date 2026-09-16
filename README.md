@@ -12,3 +12,6 @@ Upload de **inhoud van deze map** naar de root van `main`. GitHub Pages blijft o
 5. Test in vliegtuigmodus.
 
 De online kaarten gebruiken OpenFreeMap / OpenStreetMap. Offline kaarten worden door de browser op het toestel als snapshots in IndexedDB bewaard.
+
+## v7
+Overzichtspagina gebruikt nu dezelfde interactieve OpenFreeMap/OpenStreetMap-kaart als de dagkaarten. De overzichtskaart wordt ook opgeslagen via Maak offline beschikbaar.

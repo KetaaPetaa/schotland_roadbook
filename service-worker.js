@@ -1,4 +1,4 @@
-const VERSION='schotland-roadbook-v6';
+const VERSION='schotland-roadbook-v7';
 const CORE=['./','./index.html','./manifest.webmanifest','./icons/icon-192.png','./icons/icon-512.png','./icons/apple-touch-icon.png'];
 const MAP_HOSTS=new Set(['tiles.openfreemap.org','cdn.jsdelivr.net']);
 self.addEventListener('install',e=>e.waitUntil(caches.open(VERSION).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));
