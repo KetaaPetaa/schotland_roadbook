@@ -15,3 +15,7 @@ De online kaarten gebruiken OpenFreeMap / OpenStreetMap. Offline kaarten worden 
 
 ## v7
 Overzichtspagina gebruikt nu dezelfde interactieve OpenFreeMap/OpenStreetMap-kaart als de dagkaarten. De overzichtskaart wordt ook opgeslagen via Maak offline beschikbaar.
+
+
+## v8
+Peters Google Maps-lijst subtiel verwerkt als optionele inspiratie; bestaande dagplanning blijft leidend.
